@@ -3,7 +3,7 @@
 ### Hi, I'm Oyaliul Islam
 #### Web Developer & Designer
 
-Passionate about WordPress, Elementor, Shopify, and Wix website design and development. I specialize in developing professional, responsive custom websites tailored to enhance your online presence.
+I’m passionate about website design and development using WordPress, Elementor, Shopify, and Wix. I specialize in creating professional, responsive custom websites tailored to enhance online presence. I also have a strong interest in cybersecurity, ensuring solutions are effective and secure.
 
 👨‍💻 Skills & Experiance:
 
