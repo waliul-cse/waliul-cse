@@ -5,7 +5,7 @@
 
 I’m passionate about website design and development using WordPress, Elementor, Shopify, and Wix. I specialize in creating professional, responsive custom websites tailored to enhance online presence. I also have a strong interest in cybersecurity, ensuring solutions are effective and secure.
 
-👨‍💻 Skills & Experiance:
+##👨‍💻 Skills & Experiance:
 
 ✅ HTML,CSS,Javascript
 ✅ C, C#,PHP
@@ -15,7 +15,7 @@ I’m passionate about website design and development using WordPress, Elementor
 ✅ Shopify 
 ✅ Cyber Security
 
-🤝 Get in Touch!
+##🤝 Get in Touch!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waliul-cse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oyaliuldev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oyaliuli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7425545/oyaliul-islam) 
 
