@@ -7,12 +7,18 @@ I’m passionate about website design and development using WordPress, Elementor
 
 👨‍💻 Skills & Experiance:
 
-✅ HTML,CSS,Javascript,
+✅ HTML,CSS,Javascript
+
 ✅ C, C#,PHP
+
 ✅ WordPress
+
 ✅ Elementor 
+
 ✅ Wix
+
 ✅ Shopify 
+
 ✅ Cyber Security
 
 🤝 Get in Touch!
